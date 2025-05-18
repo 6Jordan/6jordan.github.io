@@ -2,7 +2,7 @@
 
 [![6jordan](https://img.shields.io/badge/6jordan-github-blue?logo=github)](https://github.com/6jordan)
 
-He is currently pursuing a Master's Degree in Finance, at School of Economics and Management, Northeast Forestry University, China.
+She is currently pursuing a Master's Degree in Finance, at School of Economics and Management, Northeast Forestry University, China.
 
 #### Email
 ljd_jordan[at]163.com
@@ -12,6 +12,6 @@ M.E., Economics and Management, Northeast Forestry University, 2023—2025 (expe
 B.E., Economics, Beijing International Studies University , 2018—2022.
 
 #### Research Interests
-My research interests focus on analyzing the role of financial instruments and policy frameworks in accelerating the transition to low‑carbon economies, with a focus on quantifying climate‑related risks and optimizing green investment strategies through innovative risk pricing models.\
+Her research interests focus on analyzing the role of financial instruments and policy frameworks in accelerating the transition to low‑carbon economies, with a focus on quantifying climate‑related risks and optimizing green investment strategies through innovative risk pricing models.\
 Green Finance, Low‑Carbon Economy.
 
