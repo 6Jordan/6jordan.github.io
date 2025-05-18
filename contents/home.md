@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![6jordan](https://img.shields.io/badge/6jordan-github-blue?logo=github)](https://github.com/6jordan)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Finance, at School of Economics and Management, Northeast Forestry University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+ljd_jordan[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Economics and Management, Northeast Forestry University, 2023—2025 (expected).\
+B.E., Economics, Beijing International Studies University , 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research interests focus on analyzing the role of financial instruments and policy frameworks in accelerating the transition to low‑carbon economies, with a focus on quantifying climate‑related risks and optimizing green investment strategies through innovative risk pricing models.\
+Green Finance, Low‑Carbon Economy.
 
