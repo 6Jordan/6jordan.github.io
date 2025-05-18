@@ -1,13 +1,17 @@
-- National Scholarship of Graduate Student, 2024.
+- First Class Scholarship, Northeast Forestry University, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Third Class Scholarship, Beijing International Studies University, 2021.
 
-- First-prize Scholarship of CUMT, 2023.
+- Merit Student Title, Northeast Forestry University, 2024.
 
-- Freshman Scholarship of CUMT, 2022.
+- School‑level Two‑star Volunteer, Beijing International Studies University, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- First Prize of the Fiffh International Youth Artificial Intelligence Competition, 2023.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- S Prize of American University Student Mathematical Modelling Contest, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
+- S Prize of American University Student Mathematical Modelling Contest, 2021.
+
+- Third Prize of the Third National Colleges and Universities Enterprise Value Creation Regional Competition, 2020.
+  
+- First Prize of the Third National University Enterprise Value Creation Competition, 2020
