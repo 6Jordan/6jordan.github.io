@@ -13,5 +13,5 @@ B.E., Economics, Beijing International Studies University , 2018—2022.
 
 #### Research Interests
 Her research interests focus on analyzing the role of financial instruments and policy frameworks in accelerating the transition to low‑carbon economies, with a focus on quantifying climate‑related risks and optimizing green investment strategies through innovative risk pricing models.\
-<strong>Green Finance</strong>, <strong>Low‑Carbon Economy</strong>.
+<strong>Green Finance, Low‑Carbon Economy</strong>.
 
